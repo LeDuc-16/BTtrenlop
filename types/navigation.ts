@@ -1,5 +1,4 @@
 export type RootStackParamList = {
-  Login: undefined;
-  ForgetPass: undefined;
-  OtpPage: undefined;
+  Temperature: undefined;
+  Calculator: undefined;
 };
